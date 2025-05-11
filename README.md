@@ -7,7 +7,8 @@ This app allows users to add, mark, delete, and persist tasks — even after the
 
 ## 📱 Demo
 
-![App Screenshot](https://via.placeholder.com/400x800.png?text=App+Screenshot)
+![todo_ss](https://github.com/user-attachments/assets/b02bb8de-b590-442e-8e17-a86be3482d4c)
+
 
 ---
 
