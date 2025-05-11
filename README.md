@@ -1,16 +1,56 @@
-# todo
+# 📝 Flutter To-Do App
 
-A new Flutter project.
+A clean and elegant **To-Do List App** built using Flutter.  
+This app allows users to add, mark, delete, and persist tasks — even after the app is closed or removed from background.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Demo
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://via.placeholder.com/400x800.png?text=App+Screenshot)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- ✅ Add tasks with title and optional description  
+- ☑️ Tap anywhere on task tile to mark as complete  
+- 🧽 Swipe to delete tasks  
+- 🔁 Undo deleted task via SnackBar  
+- 💾 **Data persistence** using `shared_preferences`  
+- 🧩 Modular code using class-based structure  
+- 🎨 Beautiful UI with Material Design
+
+---
+
+## 🚀 Tech Stack
+
+| Tech | Description |
+|------|-------------|
+| 🐦 Flutter | Cross-platform mobile UI framework |
+| 🎨 Dart | Language used for Flutter |
+| 💾 shared_preferences | To save task data locally |
+| 💡 Material UI | Built-in Flutter widgets for UI |
+
+---
+
+## 📦 Dependencies
+
+Add these in `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+
+
+
+
+
+
+
+
+
+
+
